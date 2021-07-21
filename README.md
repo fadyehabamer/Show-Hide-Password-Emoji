@@ -1,2 +1,2 @@
 # fancy login form
-## Emoji Change using JavaScript
+## Monkey Emoji Change using JavaScript
